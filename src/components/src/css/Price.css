@@ -1,0 +1,16 @@
+.price-main-div
+{
+    width:32%;
+    text-align:center;
+}
+.price-main-div >p
+{
+    border: 2px solid white;
+    padding: 12px;
+    border-radius: 30px;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    font-size:18px;
+    font-family:Montserrat;
+}
